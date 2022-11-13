@@ -3,6 +3,7 @@ Scraping weather historical weather data from different weather stations from : 
 ![image info](Info.png)
 
 ## Instructions
-        copy *.csv <filename>.csv
+
 ![image info](instructions.png)
+        copy *.csv <filename>.csv
 ![image info](FAQ.png)
