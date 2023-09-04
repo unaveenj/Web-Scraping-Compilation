@@ -1,6 +1,10 @@
 # Update
 ## Updated GUI Interface
-<a href="https://ibb.co/jkCFwCM"><img src="https://i.ibb.co/F4QtYQw/image.png" alt="image" border="0"></a>
+- Loading bar added ✅
+- Merging tool added ✅
+- Auto create directory ✅
+  <br>
+<a href="https://ibb.co/wNKgV8h"><img src="https://i.ibb.co/Y7tQmJB/image.png" alt="image" border="0"></a>
 ## Merging CSV
         copy *.csv <filename>.csv
 ![image info](instructions.png)
